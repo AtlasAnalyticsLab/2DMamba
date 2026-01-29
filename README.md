@@ -52,6 +52,7 @@ If you have any questions or concerns, feel free to report an issue or directly 
 
 ## Acknowledgments
 Our framework is based on [Mamba](https://github.com/state-spaces/mamba), [VMamba](https://github.com/MzeroMiko/VMamba) and [mamba.py](https://github.com/alxndrTL/mamba.py). Thanks for their outstanding code.
+The computational pathology experiments reported in this paper were executed on Korea University servers administered by Professor Jin Tae Kwak.
 ## Citation
 If you use the code or results in your research, please use the following BibTeX entry.  
 ```
